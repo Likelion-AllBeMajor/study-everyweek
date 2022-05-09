@@ -30,4 +30,4 @@
 [시아님 발표]
 - 코어자바스크립트 1장 데이터 타입 학습
 - FE 면접대비 (var, let, const, 호이스팅, Scope...)
-- 참조가 안되는 메모리 garbage colletor의 역할에 대한 이해 학습 
+- 참조가 안되는 메모리 garbage colletor의 역할과 알고리즘에 대한 이해 학습
