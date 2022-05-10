@@ -16,6 +16,7 @@
     - 카멜, 스네이크, 파스칼 케이스 특징 
 
 [나영님 발표]
+- 코어자바스크립트 1장 데이터 타입 학습
 - <a href="https://velog.io/@mooongs/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-01%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85">블로그로 대체</a>
 
 [민영님 발표]
