@@ -17,11 +17,18 @@
 
 [나영님 발표]
 - 코어자바스크립트
+- <a href="https://velog.io/@mooongs/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-02%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8">실행 컨텍스트</a>
 
 [민영님 발표]
+- 코어자바스크립트
+- <a href="https://velog.io/@minyoungdumb/JS-Hello-World">배열내장함수</a>
 
 [문희님 발표]
 - 자바스크립트 Deepdive
+- <a href="https://velog.io/@sjmh0507/JavaScript-Call-by-value">값에 의한 호출(Call by value)</a>
 
 [시아님 발표]
 - 코어자바스크립트
+
+[슬기님 발표]
+- 
